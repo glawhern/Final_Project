@@ -1,0 +1,2 @@
+Here I will upload my work on the final project. I have uploaded everything up to the production step for running RegA MD alone and with palmitic acid (PLM). I have made working python scripts to run the production steps easily. 
+I have also included a folder including my first attempt at getting the Enlighten2 pymol plugin to work successfully. While this did not work, I was able to get pymol open source which will be helpful in the future. 
