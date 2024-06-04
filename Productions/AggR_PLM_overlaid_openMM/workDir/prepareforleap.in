@@ -1,0 +1,5 @@
+parm /content/drive/MyDrive/CHEM101/AggR_PLM/AggR_PMA_overlaid_P.pdb
+loadcrd /content/drive/MyDrive/CHEM101/AggR_PLM/AggR_PMA_overlaid_P.pdb name edited
+prepareforleap crdset edited name from-prepareforleap \ 
+pdbout /content/drive/MyDrive/CHEM101/AggR_PLM/starting1.pdb nowat noh
+go 

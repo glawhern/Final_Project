@@ -1,0 +1,5 @@
+parm /content/drive/MyDrive/CHEM101/RegA_PLM_noCorN/RegA_PLM_m0_noCorN_P.pdb
+loadcrd /content/drive/MyDrive/CHEM101/RegA_PLM_noCorN/RegA_PLM_m0_noCorN_P.pdb name edited
+prepareforleap crdset edited name from-prepareforleap \ 
+pdbout /content/drive/MyDrive/CHEM101/RegA_PLM_noCorN/starting1.pdb nowat noh
+go 

@@ -1,0 +1,37 @@
+HETATM    1  CA  PLM B   1       5.153   3.990  -8.473  1.00 61.18      B    C  
+HETATM    2  CB  PLM B   1       5.822   4.751  -7.344  1.00 62.29      B    C  
+HETATM    3  CG  PLM B   1       2.189   6.320  -5.018  1.00 61.60      B    C  
+HETATM    4  CD  PLM B   1       5.429   6.055  -5.318  1.00 64.74      B    C  
+HETATM    5  CE  PLM B   1       4.538   7.042  -4.683  1.00 66.29      B    C  
+HETATM    6  C1  PLM B   1      -0.689  -1.516  -2.532  1.00 74.87      B    C  
+HETATM    7  O1  PLM B   1      -1.038  -0.879  -1.535  1.00 70.28      B    O  
+HETATM    8  C2  PLM B   1      -0.090  -0.773  -3.691  1.00 69.41      B    C  
+HETATM    9  O2  PLM B   1      -0.837  -2.742  -2.638  1.00 68.69      B    O  
+HETATM   10  C3  PLM B   1       0.897   0.268  -3.230  1.00 68.36      B    C  
+HETATM   11  C4  PLM B   1       1.248   1.184  -4.379  1.00 68.00      B    C  
+HETATM   12  C5  PLM B   1       2.449   0.715  -5.134  1.00 65.51      B    C  
+HETATM   13  C6  PLM B   1       2.152   0.637  -6.618  1.00 64.04      B    C  
+HETATM   14  C7  PLM B   1       3.371   0.845  -7.469  1.00 61.15      B    C  
+HETATM   15  C8  PLM B   1       3.875   2.242  -7.283  1.00 60.22      B    C  
+HETATM   16  C9  PLM B   1       5.029   2.522  -8.173  1.00 61.07      B    C  
+HETATM   17  CC  PLM B   1       4.828   5.506  -6.574  1.00 63.51      B    C  
+HETATM   18  CF  PLM B   1       3.329   6.389  -4.077  1.00 65.02      B    C  
+CONECT    1    2   16
+CONECT    2    1   17
+CONECT    3   18
+CONECT    4    5   17
+CONECT    5    4   18
+CONECT    6    7    8    9
+CONECT    7    6
+CONECT    8    6   10
+CONECT    9    6
+CONECT   10    8   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16    1   15
+CONECT   17    2    4
+CONECT   18    3    5
+END

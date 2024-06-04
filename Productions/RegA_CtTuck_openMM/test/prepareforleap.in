@@ -1,0 +1,5 @@
+parm ./test\starting.pdb
+loadcrd ./test\starting.pdb name edited
+prepareforleap crdset edited name from-prepareforleap \ 
+pdbout ./test\starting2.pdb nowat noh
+go 

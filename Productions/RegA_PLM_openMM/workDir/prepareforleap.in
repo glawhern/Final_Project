@@ -1,0 +1,5 @@
+parm /content/drive/MyDrive/RegA_PLM/RegA_PLM_AF3_onlyP.pdb
+loadcrd /content/drive/MyDrive/RegA_PLM/RegA_PLM_AF3_onlyP.pdb name edited
+prepareforleap crdset edited name from-prepareforleap \ 
+pdbout /content/drive/MyDrive/RegA_PLM/starting1.pdb nowat noh
+go 

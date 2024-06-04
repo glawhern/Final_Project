@@ -1,0 +1,65 @@
+HETATM    1  C1  DKA A 301       0.898  -2.046  -4.519  1.00 61.53      C    C  
+HETATM    2  O1  DKA A 301       1.270  -1.510  -3.443  1.00 61.53      C    O  
+HETATM    3  C2  DKA A 301       1.728  -1.868  -5.788  1.00 61.53      C    C  
+HETATM    4  O2  DKA A 301      -0.159  -2.729  -4.549  1.00 61.53      C    O  
+HETATM    5  C3  DKA A 301       3.124  -1.320  -5.497  1.00 61.53      C    C  
+HETATM    6  C4  DKA A 301       3.914  -1.042  -6.774  1.00 61.53      C    C  
+HETATM    7  C5  DKA A 301       3.953   0.445  -7.119  1.00 61.53      C    C  
+HETATM    8  C6  DKA A 301       5.379   0.956  -7.312  1.00 61.53      C    C  
+HETATM    9  C7  DKA A 301       5.422   2.449  -7.631  1.00 61.53      C    C  
+HETATM   10  C8  DKA A 301       4.419   3.248  -6.802  1.00 61.53      C    C  
+HETATM   11  C9  DKA A 301       5.076   4.410  -6.059  1.00 61.53      C    C  
+HETATM   12  C10 DKA A 301       4.139   5.607  -5.912  1.00 61.53      C    C  
+HETATM   13  H01 DKA A 301       1.826  -2.835  -6.282  1.00 61.53      C    H  
+HETATM   14  H02 DKA A 301      -0.431  -2.939  -3.652  1.00 61.53      C    H  
+HETATM   15  H03 DKA A 301       3.666  -2.075  -4.927  1.00 61.53      C    H  
+HETATM   16  H04 DKA A 301       3.026  -0.392  -4.934  1.00 61.53      C    H  
+HETATM   17  H05 DKA A 301       3.417  -1.561  -7.593  1.00 61.53      C    H  
+HETATM   18  H06 DKA A 301       1.214  -1.148  -6.424  1.00 61.53      C    H  
+HETATM   19  H07 DKA A 301       4.935  -1.398  -6.639  1.00 61.53      C    H  
+HETATM   20  H08 DKA A 301       3.512   0.993  -6.286  1.00 61.53      C    H  
+HETATM   21  H09 DKA A 301       3.393   0.607  -8.040  1.00 61.53      C    H  
+HETATM   22  H10 DKA A 301       5.811   0.423  -8.159  1.00 61.53      C    H  
+HETATM   23  H11 DKA A 301       5.944   0.776  -6.398  1.00 61.53      C    H  
+HETATM   24  H12 DKA A 301       5.159   2.574  -8.681  1.00 61.53      C    H  
+HETATM   25  H13 DKA A 301       6.425   2.823  -7.424  1.00 61.53      C    H  
+HETATM   26  H14 DKA A 301       3.992   2.577  -6.058  1.00 61.53      C    H  
+HETATM   27  H15 DKA A 301       3.652   3.645  -7.466  1.00 61.53      C    H  
+HETATM   28  H16 DKA A 301       5.939   4.733  -6.642  1.00 61.53      C    H  
+HETATM   29  H17 DKA A 301       5.371   4.071  -5.067  1.00 61.53      C    H  
+HETATM   30  H18 DKA A 301       3.208   5.283  -5.446  1.00 61.53      C    H  
+HETATM   31  H19 DKA A 301       4.612   6.364  -5.287  1.00 61.53      C    H  
+HETATM   32  H20 DKA A 301       3.927   6.026  -6.895  1.00 61.53      C    H  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5   13   18
+CONECT    4    1   14
+CONECT    5    3    6   15   16
+CONECT    6    5    7   17   19
+CONECT    7    6    8   20   21
+CONECT    8    7    9   22   23
+CONECT    9    8   10   24   25
+CONECT   10    9   11   26   27
+CONECT   11   10   12   28   29
+CONECT   12   11   30   31   32
+CONECT   13    3
+CONECT   14    4
+CONECT   15    5
+CONECT   16    5
+CONECT   17    6
+CONECT   18    3
+CONECT   19    6
+CONECT   20    7
+CONECT   21    7
+CONECT   22    8
+CONECT   23    8
+CONECT   24    9
+CONECT   25    9
+CONECT   26   10
+CONECT   27   10
+CONECT   28   11
+CONECT   29   11
+CONECT   30   12
+CONECT   31   12
+CONECT   32   12
+END

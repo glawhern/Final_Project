@@ -1,0 +1,33 @@
+HETATM    1  C1  MYR B   1      -3.226  -0.783  -3.086  1.00 74.50      B    C  
+HETATM    2  O1  MYR B   1      -3.849  -0.741  -4.124  1.00 69.93      B    O  
+HETATM    3  C2  MYR B   1      -3.017   0.482  -2.345  1.00 71.16      B    C  
+HETATM    4  O2  MYR B   1      -2.784  -1.821  -2.611  1.00 71.80      B    O  
+HETATM    5  C3  MYR B   1      -1.665   0.562  -1.798  1.00 71.74      B    C  
+HETATM    6  C4  MYR B   1      -1.547   1.805  -1.013  1.00 71.00      B    C  
+HETATM    7  C5  MYR B   1      -0.144   2.003  -0.639  1.00 69.69      B    C  
+HETATM    8  C6  MYR B   1      -0.035   3.177   0.210  1.00 69.27      B    C  
+HETATM    9  C7  MYR B   1       1.393   3.439   0.434  1.00 67.27      B    C  
+HETATM   10  C8  MYR B   1       1.564   4.221   1.666  1.00 67.43      B    C  
+HETATM   11  C9  MYR B   1       2.993   4.489   1.857  1.00 68.05      B    C  
+HETATM   12  C10 MYR B   1       3.276   4.738   3.269  1.00 68.84      B    C  
+HETATM   13  C11 MYR B   1       2.804   3.624   4.127  1.00 70.16      B    C  
+HETATM   14  C12 MYR B   1       3.774   2.509   4.158  1.00 71.16      B    C  
+HETATM   15  C13 MYR B   1       3.298   1.353   4.916  1.00 70.71      B    C  
+HETATM   16  C14 MYR B   1       1.827   1.221   5.050  1.00 67.96      B    C  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5
+CONECT    4    1
+CONECT    5    3    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15
+END
